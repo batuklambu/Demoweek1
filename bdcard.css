@@ -1,0 +1,48 @@
+
+       .body {
+         font-family: Comic Sans Ms;
+        background-color: cornsilk;
+        border: 5px solid rgb(236, 39, 39);
+        width: 700px;
+        height: 700px;
+      }
+
+      h2 {
+        color: blue;
+        font-size: 50px;
+        text-align: center;
+        font-family: Comic Sans Ms;
+      }
+      
+      .img-mickey{
+        height:450px;
+        width :450px;
+        margin: auto;
+        background-image: url(img/micky.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+
+      button {
+        color: blue;
+        background-position: center;
+        text-align: center;
+        height: 40px;
+       font-family: Comic Sans Ms;      }
+
+       #container {
+        margin: 50px auto;
+        background-image: linear-gradient(300deg, #0b5c21, #5c0b1a);
+        width: 500px;
+        height: 700px;
+        text-align: center;
+        border: 15px solid #c91616;
+        box-shadow: -10px 10px 5px rgb(212, 211, 211);
+      }
+      
+        
+       
+
+      
+          
